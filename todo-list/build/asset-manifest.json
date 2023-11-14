@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nishantsharma1243/TODO-list/static/css/main.c138dc2f.css",
+    "main.js": "/Nishantsharma1243/TODO-list/static/js/main.977a9d41.js",
+    "static/js/787.54626f4b.chunk.js": "/Nishantsharma1243/TODO-list/static/js/787.54626f4b.chunk.js",
+    "index.html": "/Nishantsharma1243/TODO-list/index.html",
+    "main.c138dc2f.css.map": "/Nishantsharma1243/TODO-list/static/css/main.c138dc2f.css.map",
+    "main.977a9d41.js.map": "/Nishantsharma1243/TODO-list/static/js/main.977a9d41.js.map",
+    "787.54626f4b.chunk.js.map": "/Nishantsharma1243/TODO-list/static/js/787.54626f4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c138dc2f.css",
+    "static/js/main.977a9d41.js"
+  ]
+}
